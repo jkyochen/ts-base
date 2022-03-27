@@ -38,3 +38,11 @@ npm install -D eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin
 # https://prettier.io/docs/en/install.html
 npm install -D prettier eslint-config-prettier
 ```
+
+## git hooks
+
+```sh
+# https://github.com/okonet/lint-staged
+# https://github.com/typicode/husky
+npx mrm@2 lint-staged
+```
