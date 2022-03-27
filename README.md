@@ -16,3 +16,11 @@ npm install -D typescript
 # https://www.typescriptlang.org/docs/handbook/compiler-options.html
 npx tsc --init
 ```
+
+## test
+
+```sh
+# https://kulshekhar.github.io/ts-jest/docs/getting-started/installation
+npm install -D jest ts-jest @types/jest
+npx ts-jest config:init
+```
