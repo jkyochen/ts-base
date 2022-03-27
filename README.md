@@ -24,3 +24,17 @@ npx tsc --init
 npm install -D jest ts-jest @types/jest
 npx ts-jest config:init
 ```
+
+## linter
+
+```sh
+# https://typescript-eslint.io/docs/linting/
+npm install -D eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin
+```
+
+## formatter
+
+```sh
+# https://prettier.io/docs/en/install.html
+npm install -D prettier eslint-config-prettier
+```
