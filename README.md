@@ -1,9 +1,9 @@
-# ts-project-base
+# ts-base
 
 ## Quick Start
 
 ```sh
-degit lanlyhs/ts-project-base
+npx degit lanlyhs/ts-base
 ```
 
 [degit](https://github.com/Rich-Harris/degit)
