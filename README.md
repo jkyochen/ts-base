@@ -1,4 +1,11 @@
-# typescript-project-boilerplate
+# ts-project-base
+
+## Quick Start
+
+```sh
+# https://github.com/Rich-Harris/degit
+degit lanlyhs/ts-project-base
+```
 
 ## init
 
